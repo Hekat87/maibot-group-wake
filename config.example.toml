@@ -1,0 +1,9 @@
+[plugin]
+enabled = true
+config_version = "1.0.0"
+
+[group_wake]
+groups = []
+wake_seconds = 120
+silent_adjust = 0.0
+wake_adjust = 1.0
