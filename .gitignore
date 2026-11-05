@@ -1,0 +1,8 @@
+# 运行配置不进版本库（插件中心要求仓库根目录不能有 config.toml）
+config.toml
+
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
