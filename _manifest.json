@@ -5,14 +5,14 @@
   "description": "指定群平时完全静默（不主动说话），只有被 @ 时短暂唤醒；窗口时长可配置。",
   "author": {
     "name": "dsh",
-    "url": "https://github.com/1633235400"
+    "url": "https://github.com/Hekat87"
   },
   "license": "MIT",
   "urls": {
-    "repository": "https://github.com/1633235400/maibot-group-wake",
-    "homepage": "https://github.com/1633235400/maibot-group-wake",
-    "documentation": "https://github.com/1633235400/maibot-group-wake/blob/main/README.md",
-    "issues": "https://github.com/1633235400/maibot-group-wake/issues"
+    "repository": "https://github.com/Hekat87/maibot-group-wake",
+    "homepage": "https://github.com/Hekat87/maibot-group-wake",
+    "documentation": "https://github.com/Hekat87/maibot-group-wake/blob/main/README.md",
+    "issues": "https://github.com/Hekat87/maibot-group-wake/issues"
   },
   "changelog": "CHANGELOG.md",
   "host_application": {
